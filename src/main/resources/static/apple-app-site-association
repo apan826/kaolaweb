@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+	    {
+                "appID": "W5N5ZG9TL3.com.kaolatask.www",
+                "paths": [ "/app/*"]
+            }
+        ]
+    }
+}
